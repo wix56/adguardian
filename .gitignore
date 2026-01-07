@@ -1,0 +1,70 @@
+# ADGuardian - File da ignorare
+# Sviluppato da ISIPC - Truant Bruno | https://isipc.com
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+config.yaml
+*.pdf
+*.json
+!config.example.yaml
+adguardian.log
+
+# Credenziali (IMPORTANTE!)
+credenziali.txt
+credentials.txt
+*.key
+*.pem
+secrets.yaml
+.secrets/
+
+# Report generati
+reports/
+output/
+
+# Test
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Cartelle locali (non pubbliche)
+social/
+landing/

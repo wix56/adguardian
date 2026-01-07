@@ -1,0 +1,18 @@
+# ADGuardian - Dipendenze
+# Sviluppato da ISIPC - Truant Bruno | https://isipc.com
+
+# Connessione Active Directory
+ldap3>=2.9.1
+
+# Generazione PDF
+reportlab>=4.0.0
+
+# Colori terminale (opzionale)
+colorama>=0.4.6
+
+# Configurazione YAML (opzionale)
+pyyaml>=6.0
+
+# Per development/testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
